@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jsfilho\\Desktop\\estudos C#\\Estudos-C-Sharp\\Aula06\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC8A961B-4CF9-4753-ACB3-19568ED9AAA6}|Aula06\\Aula06.csproj|c:\\users\\jsfilho\\desktop\\estudos c#\\estudos-c-sharp\\aula06\\aula06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC8A961B-4CF9-4753-ACB3-19568ED9AAA6}|Aula06\\Aula06.csproj|solutionrelative:aula06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jsfilho\\Desktop\\estudos C#\\Estudos-C-Sharp\\Aula06\\Aula06\\Program.cs",
+              "RelativeDocumentMoniker": "Aula06\\Program.cs",
+              "ToolTip": "C:\\Users\\jsfilho\\Desktop\\estudos C#\\Estudos-C-Sharp\\Aula06\\Aula06\\Program.cs",
+              "RelativeToolTip": "Aula06\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T14:33:23.385Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
