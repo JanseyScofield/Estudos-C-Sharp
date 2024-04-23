@@ -1,0 +1,15 @@
+C:\Users\jsfilho\Desktop\estudos C#\Estudos-C-Sharp\ExerciciosPropostosP3\ExerciciosPropostosP3\bin\Debug\net8.0\ExerciciosPropostosP3.exe
+C:\Users\jsfilho\Desktop\estudos C#\Estudos-C-Sharp\ExerciciosPropostosP3\ExerciciosPropostosP3\bin\Debug\net8.0\ExerciciosPropostosP3.deps.json
+C:\Users\jsfilho\Desktop\estudos C#\Estudos-C-Sharp\ExerciciosPropostosP3\ExerciciosPropostosP3\bin\Debug\net8.0\ExerciciosPropostosP3.runtimeconfig.json
+C:\Users\jsfilho\Desktop\estudos C#\Estudos-C-Sharp\ExerciciosPropostosP3\ExerciciosPropostosP3\bin\Debug\net8.0\ExerciciosPropostosP3.dll
+C:\Users\jsfilho\Desktop\estudos C#\Estudos-C-Sharp\ExerciciosPropostosP3\ExerciciosPropostosP3\bin\Debug\net8.0\ExerciciosPropostosP3.pdb
+C:\Users\jsfilho\Desktop\estudos C#\Estudos-C-Sharp\ExerciciosPropostosP3\ExerciciosPropostosP3\obj\Debug\net8.0\ExerciciosPropostosP3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jsfilho\Desktop\estudos C#\Estudos-C-Sharp\ExerciciosPropostosP3\ExerciciosPropostosP3\obj\Debug\net8.0\ExerciciosPropostosP3.AssemblyInfoInputs.cache
+C:\Users\jsfilho\Desktop\estudos C#\Estudos-C-Sharp\ExerciciosPropostosP3\ExerciciosPropostosP3\obj\Debug\net8.0\ExerciciosPropostosP3.AssemblyInfo.cs
+C:\Users\jsfilho\Desktop\estudos C#\Estudos-C-Sharp\ExerciciosPropostosP3\ExerciciosPropostosP3\obj\Debug\net8.0\ExerciciosPropostosP3.csproj.CoreCompileInputs.cache
+C:\Users\jsfilho\Desktop\estudos C#\Estudos-C-Sharp\ExerciciosPropostosP3\ExerciciosPropostosP3\obj\Debug\net8.0\ExerciciosPropostosP3.sourcelink.json
+C:\Users\jsfilho\Desktop\estudos C#\Estudos-C-Sharp\ExerciciosPropostosP3\ExerciciosPropostosP3\obj\Debug\net8.0\ExerciciosPropostosP3.dll
+C:\Users\jsfilho\Desktop\estudos C#\Estudos-C-Sharp\ExerciciosPropostosP3\ExerciciosPropostosP3\obj\Debug\net8.0\refint\ExerciciosPropostosP3.dll
+C:\Users\jsfilho\Desktop\estudos C#\Estudos-C-Sharp\ExerciciosPropostosP3\ExerciciosPropostosP3\obj\Debug\net8.0\ExerciciosPropostosP3.pdb
+C:\Users\jsfilho\Desktop\estudos C#\Estudos-C-Sharp\ExerciciosPropostosP3\ExerciciosPropostosP3\obj\Debug\net8.0\ExerciciosPropostosP3.genruntimeconfig.cache
+C:\Users\jsfilho\Desktop\estudos C#\Estudos-C-Sharp\ExerciciosPropostosP3\ExerciciosPropostosP3\obj\Debug\net8.0\ref\ExerciciosPropostosP3.dll
