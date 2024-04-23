@@ -1,0 +1,15 @@
+C:\Users\jsfilho\Desktop\estudos C#\Estudos-C-Sharp\ExerciciosPropostosP2\ExerciciosPropostosP2\bin\Debug\net8.0\ExerciciosPropostosP2.exe
+C:\Users\jsfilho\Desktop\estudos C#\Estudos-C-Sharp\ExerciciosPropostosP2\ExerciciosPropostosP2\bin\Debug\net8.0\ExerciciosPropostosP2.deps.json
+C:\Users\jsfilho\Desktop\estudos C#\Estudos-C-Sharp\ExerciciosPropostosP2\ExerciciosPropostosP2\bin\Debug\net8.0\ExerciciosPropostosP2.runtimeconfig.json
+C:\Users\jsfilho\Desktop\estudos C#\Estudos-C-Sharp\ExerciciosPropostosP2\ExerciciosPropostosP2\bin\Debug\net8.0\ExerciciosPropostosP2.dll
+C:\Users\jsfilho\Desktop\estudos C#\Estudos-C-Sharp\ExerciciosPropostosP2\ExerciciosPropostosP2\bin\Debug\net8.0\ExerciciosPropostosP2.pdb
+C:\Users\jsfilho\Desktop\estudos C#\Estudos-C-Sharp\ExerciciosPropostosP2\ExerciciosPropostosP2\obj\Debug\net8.0\ExerciciosPropostosP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jsfilho\Desktop\estudos C#\Estudos-C-Sharp\ExerciciosPropostosP2\ExerciciosPropostosP2\obj\Debug\net8.0\ExerciciosPropostosP2.AssemblyInfoInputs.cache
+C:\Users\jsfilho\Desktop\estudos C#\Estudos-C-Sharp\ExerciciosPropostosP2\ExerciciosPropostosP2\obj\Debug\net8.0\ExerciciosPropostosP2.AssemblyInfo.cs
+C:\Users\jsfilho\Desktop\estudos C#\Estudos-C-Sharp\ExerciciosPropostosP2\ExerciciosPropostosP2\obj\Debug\net8.0\ExerciciosPropostosP2.csproj.CoreCompileInputs.cache
+C:\Users\jsfilho\Desktop\estudos C#\Estudos-C-Sharp\ExerciciosPropostosP2\ExerciciosPropostosP2\obj\Debug\net8.0\ExerciciosPropostosP2.sourcelink.json
+C:\Users\jsfilho\Desktop\estudos C#\Estudos-C-Sharp\ExerciciosPropostosP2\ExerciciosPropostosP2\obj\Debug\net8.0\ExerciciosPropostosP2.dll
+C:\Users\jsfilho\Desktop\estudos C#\Estudos-C-Sharp\ExerciciosPropostosP2\ExerciciosPropostosP2\obj\Debug\net8.0\refint\ExerciciosPropostosP2.dll
+C:\Users\jsfilho\Desktop\estudos C#\Estudos-C-Sharp\ExerciciosPropostosP2\ExerciciosPropostosP2\obj\Debug\net8.0\ExerciciosPropostosP2.pdb
+C:\Users\jsfilho\Desktop\estudos C#\Estudos-C-Sharp\ExerciciosPropostosP2\ExerciciosPropostosP2\obj\Debug\net8.0\ExerciciosPropostosP2.genruntimeconfig.cache
+C:\Users\jsfilho\Desktop\estudos C#\Estudos-C-Sharp\ExerciciosPropostosP2\ExerciciosPropostosP2\obj\Debug\net8.0\ref\ExerciciosPropostosP2.dll
