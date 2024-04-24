@@ -23,7 +23,7 @@ namespace Aula14 {
         }
 
         public override string ToString() {
-            return Nome + ", " + Quantidade + " unidades, Total: R$ " + ValorTotalEmEstoque();
+            return Nome + ", " + Quantidade + " unidades, valor do produto R$ " + Preco + ", Total: R$ " + ValorTotalEmEstoque();
         }
     }
 }
