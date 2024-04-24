@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jsfilho\\Desktop\\estudos C#\\Estudos-C-Sharp\\Aula15\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2215945A-D91A-48B9-9D64-1650175AB436}|Aula15\\Aula15.csproj|c:\\users\\jsfilho\\desktop\\estudos c#\\estudos-c-sharp\\aula15\\aula15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2215945A-D91A-48B9-9D64-1650175AB436}|Aula15\\Aula15.csproj|solutionrelative:aula15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2215945A-D91A-48B9-9D64-1650175AB436}|Aula15\\Aula15.csproj|c:\\users\\jsfilho\\desktop\\estudos c#\\estudos-c-sharp\\aula15\\aula15\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2215945A-D91A-48B9-9D64-1650175AB436}|Aula15\\Aula15.csproj|solutionrelative:aula15\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\jsfilho\\Desktop\\estudos C#\\Estudos-C-Sharp\\Aula15\\Aula15\\Produto.cs",
+              "RelativeDocumentMoniker": "Aula15\\Produto.cs",
+              "ToolTip": "C:\\Users\\jsfilho\\Desktop\\estudos C#\\Estudos-C-Sharp\\Aula15\\Aula15\\Produto.cs",
+              "RelativeToolTip": "Aula15\\Produto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T11:53:11.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jsfilho\\Desktop\\estudos C#\\Estudos-C-Sharp\\Aula15\\Aula15\\Program.cs",
+              "RelativeDocumentMoniker": "Aula15\\Program.cs",
+              "ToolTip": "C:\\Users\\jsfilho\\Desktop\\estudos C#\\Estudos-C-Sharp\\Aula15\\Aula15\\Program.cs",
+              "RelativeToolTip": "Aula15\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T11:52:54.044Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
