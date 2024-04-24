@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jsfilho\\Desktop\\estudos C#\\Estudos-C-Sharp\\ExerciciosPropostosP4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B37F92A2-18CD-4701-99A0-908D7490B2F5}|ExerciciosPropostosP4\\ExerciciosPropostosP4.csproj|c:\\users\\jsfilho\\desktop\\estudos c#\\estudos-c-sharp\\exerciciospropostosp4\\exerciciospropostosp4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B37F92A2-18CD-4701-99A0-908D7490B2F5}|ExerciciosPropostosP4\\ExerciciosPropostosP4.csproj|solutionrelative:exerciciospropostosp4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B37F92A2-18CD-4701-99A0-908D7490B2F5}|ExerciciosPropostosP4\\ExerciciosPropostosP4.csproj|c:\\users\\jsfilho\\desktop\\estudos c#\\estudos-c-sharp\\exerciciospropostosp4\\exerciciospropostosp4\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B37F92A2-18CD-4701-99A0-908D7490B2F5}|ExerciciosPropostosP4\\ExerciciosPropostosP4.csproj|solutionrelative:exerciciospropostosp4\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Funcionario.cs",
+              "DocumentMoniker": "C:\\Users\\jsfilho\\Desktop\\estudos C#\\Estudos-C-Sharp\\ExerciciosPropostosP4\\ExerciciosPropostosP4\\Funcionario.cs",
+              "RelativeDocumentMoniker": "ExerciciosPropostosP4\\Funcionario.cs",
+              "ToolTip": "C:\\Users\\jsfilho\\Desktop\\estudos C#\\Estudos-C-Sharp\\ExerciciosPropostosP4\\ExerciciosPropostosP4\\Funcionario.cs",
+              "RelativeToolTip": "ExerciciosPropostosP4\\Funcionario.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T11:04:57.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jsfilho\\Desktop\\estudos C#\\Estudos-C-Sharp\\ExerciciosPropostosP4\\ExerciciosPropostosP4\\Program.cs",
+              "RelativeDocumentMoniker": "ExerciciosPropostosP4\\Program.cs",
+              "ToolTip": "C:\\Users\\jsfilho\\Desktop\\estudos C#\\Estudos-C-Sharp\\ExerciciosPropostosP4\\ExerciciosPropostosP4\\Program.cs",
+              "RelativeToolTip": "ExerciciosPropostosP4\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAkwBYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T11:03:58.691Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
