@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jsfilho\\Desktop\\estudos C#\\Estudos-C-Sharp\\Aula20\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{942F91E6-BC73-4A4F-BB9F-29A2843FEE1C}|Aula20\\Aula20.csproj|c:\\users\\jsfilho\\desktop\\estudos c#\\estudos-c-sharp\\aula20\\aula20\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{942F91E6-BC73-4A4F-BB9F-29A2843FEE1C}|Aula20\\Aula20.csproj|solutionrelative:aula20\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jsfilho\\Desktop\\estudos C#\\Estudos-C-Sharp\\Aula20\\Aula20\\Program.cs",
+              "RelativeDocumentMoniker": "Aula20\\Program.cs",
+              "ToolTip": "C:\\Users\\jsfilho\\Desktop\\estudos C#\\Estudos-C-Sharp\\Aula20\\Aula20\\Program.cs",
+              "RelativeToolTip": "Aula20\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T14:18:57.023Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
