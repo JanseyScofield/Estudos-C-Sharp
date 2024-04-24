@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jsfilho\\Desktop\\estudos C#\\Estudos-C-Sharp\\Aula22\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7388B5D7-8505-40EE-AF29-2FFDFBFBA201}|Aula22\\Aula22.csproj|c:\\users\\jsfilho\\desktop\\estudos c#\\estudos-c-sharp\\aula22\\aula22\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7388B5D7-8505-40EE-AF29-2FFDFBFBA201}|Aula22\\Aula22.csproj|solutionrelative:aula22\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7388B5D7-8505-40EE-AF29-2FFDFBFBA201}|Aula22\\Aula22.csproj|c:\\users\\jsfilho\\desktop\\estudos c#\\estudos-c-sharp\\aula22\\aula22\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7388B5D7-8505-40EE-AF29-2FFDFBFBA201}|Aula22\\Aula22.csproj|solutionrelative:aula22\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculadora.cs",
+              "DocumentMoniker": "C:\\Users\\jsfilho\\Desktop\\estudos C#\\Estudos-C-Sharp\\Aula22\\Aula22\\Calculadora.cs",
+              "RelativeDocumentMoniker": "Aula22\\Calculadora.cs",
+              "ToolTip": "C:\\Users\\jsfilho\\Desktop\\estudos C#\\Estudos-C-Sharp\\Aula22\\Aula22\\Calculadora.cs",
+              "RelativeToolTip": "Aula22\\Calculadora.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T14:39:07.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jsfilho\\Desktop\\estudos C#\\Estudos-C-Sharp\\Aula22\\Aula22\\Program.cs",
+              "RelativeDocumentMoniker": "Aula22\\Program.cs",
+              "ToolTip": "C:\\Users\\jsfilho\\Desktop\\estudos C#\\Estudos-C-Sharp\\Aula22\\Aula22\\Program.cs",
+              "RelativeToolTip": "Aula22\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T14:38:29.112Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
