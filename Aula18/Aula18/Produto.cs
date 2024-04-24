@@ -7,13 +7,13 @@ using System.Threading.Tasks;
 namespace Aula18 {
     internal class Produto {
         private string _nome;
-        private double _preco;
-        private int _quantidade;
+        public double Preco { get; private set};
+        public int Quantidade { get; private set};
 
         public Produto(string nome, double preco, int quantidade) {
             _nome = nome;
-            _preco = preco;
-            _quantidade = quantidade;
+            Preco = preco;
+            Quantidade = quantidade;
         }
 
         public string Nome {
@@ -24,28 +24,20 @@ namespace Aula18 {
             }
         }
 
-        public double Preco {
-            get { return _preco; }
-        }
-
-        public int Quantidade {
-            get { return _quantidade; }
-        }
-
         public double ValorTotalEmEstoque() {
-            return _quantidade * _preco;
+            return Quantidade * Preco;
         }
 
         public void AdicionarProdutos(int numAdd) {
-            _quantidade += numAdd;
+            Quantidade += numAdd;
         }
 
         public void RemoverProdutos(int numRmv) {
-            _quantidade -= numRmv;
+            Quantidade -= numRmv;
         }
 
         public override string ToString() {
-            return _nome + ", " + _quantidade + " unidades, valor do produto R$ " + _preco + ", Total: R$ " + ValorTotalEmEstoque();
+            return _nome + ", " + Quantidade + " unidades, valor do produto R$ " + Preco + ", Total: R$ " + ValorTotalEmEstoque();
         }
     }
 }
