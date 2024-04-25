@@ -1,0 +1,15 @@
+C:\Users\jsfilho\Desktop\estudos C#\Estudos-C-Sharp\Aula28\Aula28\bin\Debug\net8.0\Aula28.exe
+C:\Users\jsfilho\Desktop\estudos C#\Estudos-C-Sharp\Aula28\Aula28\bin\Debug\net8.0\Aula28.deps.json
+C:\Users\jsfilho\Desktop\estudos C#\Estudos-C-Sharp\Aula28\Aula28\bin\Debug\net8.0\Aula28.runtimeconfig.json
+C:\Users\jsfilho\Desktop\estudos C#\Estudos-C-Sharp\Aula28\Aula28\bin\Debug\net8.0\Aula28.dll
+C:\Users\jsfilho\Desktop\estudos C#\Estudos-C-Sharp\Aula28\Aula28\bin\Debug\net8.0\Aula28.pdb
+C:\Users\jsfilho\Desktop\estudos C#\Estudos-C-Sharp\Aula28\Aula28\obj\Debug\net8.0\Aula28.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jsfilho\Desktop\estudos C#\Estudos-C-Sharp\Aula28\Aula28\obj\Debug\net8.0\Aula28.AssemblyInfoInputs.cache
+C:\Users\jsfilho\Desktop\estudos C#\Estudos-C-Sharp\Aula28\Aula28\obj\Debug\net8.0\Aula28.AssemblyInfo.cs
+C:\Users\jsfilho\Desktop\estudos C#\Estudos-C-Sharp\Aula28\Aula28\obj\Debug\net8.0\Aula28.csproj.CoreCompileInputs.cache
+C:\Users\jsfilho\Desktop\estudos C#\Estudos-C-Sharp\Aula28\Aula28\obj\Debug\net8.0\Aula28.sourcelink.json
+C:\Users\jsfilho\Desktop\estudos C#\Estudos-C-Sharp\Aula28\Aula28\obj\Debug\net8.0\Aula28.dll
+C:\Users\jsfilho\Desktop\estudos C#\Estudos-C-Sharp\Aula28\Aula28\obj\Debug\net8.0\refint\Aula28.dll
+C:\Users\jsfilho\Desktop\estudos C#\Estudos-C-Sharp\Aula28\Aula28\obj\Debug\net8.0\Aula28.pdb
+C:\Users\jsfilho\Desktop\estudos C#\Estudos-C-Sharp\Aula28\Aula28\obj\Debug\net8.0\Aula28.genruntimeconfig.cache
+C:\Users\jsfilho\Desktop\estudos C#\Estudos-C-Sharp\Aula28\Aula28\obj\Debug\net8.0\ref\Aula28.dll
