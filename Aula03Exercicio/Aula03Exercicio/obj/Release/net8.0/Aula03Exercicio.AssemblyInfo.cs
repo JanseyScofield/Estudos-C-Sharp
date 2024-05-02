@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Aula03Exercicio")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+39d539ba034d69a740450782d138112b54d2e72d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1f28770162895d9a8a69cb4bd03bef43cd4fe326")]
 [assembly: System.Reflection.AssemblyProductAttribute("Aula03Exercicio")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Aula03Exercicio")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

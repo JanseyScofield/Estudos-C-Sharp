@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jsfilho\\Desktop\\estudos C#\\Estudos-C-Sharp\\App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{547B6004-C726-43BC-9483-0B6F771D4B51}|App\\App.csproj|c:\\users\\jsfilho\\desktop\\estudos c#\\estudos-c-sharp\\app\\app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{547B6004-C726-43BC-9483-0B6F771D4B51}|App\\App.csproj|solutionrelative:app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jsfilho\\Desktop\\estudos C#\\Estudos-C-Sharp\\App\\App\\Program.cs",
+              "RelativeDocumentMoniker": "App\\Program.cs",
+              "ToolTip": "C:\\Users\\jsfilho\\Desktop\\estudos C#\\Estudos-C-Sharp\\App\\App\\Program.cs",
+              "RelativeToolTip": "App\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T13:23:35.257Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

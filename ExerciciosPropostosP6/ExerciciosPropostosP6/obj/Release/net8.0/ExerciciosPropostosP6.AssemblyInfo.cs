@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ExerciciosPropostosP6")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b4529b156791334fb060e95cf61b56ffb7e661c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1f28770162895d9a8a69cb4bd03bef43cd4fe326")]
 [assembly: System.Reflection.AssemblyProductAttribute("ExerciciosPropostosP6")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ExerciciosPropostosP6")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

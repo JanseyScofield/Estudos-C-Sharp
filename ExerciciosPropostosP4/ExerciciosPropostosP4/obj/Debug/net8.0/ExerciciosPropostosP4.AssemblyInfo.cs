@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ExerciciosPropostosP4")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ebab7c4cdf73ab9736aa0b02a5a53d9fe8e983cb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1f28770162895d9a8a69cb4bd03bef43cd4fe326")]
 [assembly: System.Reflection.AssemblyProductAttribute("ExerciciosPropostosP4")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ExerciciosPropostosP4")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
