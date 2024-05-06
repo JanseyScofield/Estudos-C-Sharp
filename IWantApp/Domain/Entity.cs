@@ -1,8 +1,9 @@
 ﻿using System;
+using Flunt.Notifications;
 
 namespace IWantApp.Domain {
 
-    public class Entity {
+    public class Entity : Notifiable<Notification>{
 
         public Entity() { 
             Id = Guid.NewGuid();

@@ -3,6 +3,7 @@ using IWantApp.Infra.Data;
 using IWantApp.Domain.Products;
 
 using System.CodeDom.Compiler;
+using System.Xml.Linq;
 namespace IWantApp.EndPoints.Categories {
     static class CategoryPost {
 
@@ -12,13 +13,12 @@ namespace IWantApp.EndPoints.Categories {
 
         public static IResult Action(CategoryRequest categoryRequest, ApplicationDbContext context) {
 
-            var category = new Category {
-                Name = categoryRequest.Name,
-                CreatedBy = "Test",
-                CreatedOn = DateTime.Now,
-                EditedBy = "Test",
-                EditedOn = DateTime.Now,
-            };
+            var category = new Category(categoryRequest.Name, "Teste", "Teste");
+
+            if(!category.IsValid) {
+
+                return Results.ValidationProblem(category.Notifications.ConvertToProblemDetails());
+            }
 
             context.Category.Add(category);
             context.SaveChanges();
