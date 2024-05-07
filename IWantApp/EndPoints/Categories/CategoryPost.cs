@@ -4,25 +4,29 @@ using IWantApp.Domain.Products;
 
 using System.CodeDom.Compiler;
 using System.Xml.Linq;
+using Microsoft.AspNetCore.Authorization;
+using System.Security.Claims;
+
 namespace IWantApp.EndPoints.Categories {
-    static class CategoryPost {
+    static class ProductPost {
 
         public static string Template => "/categories";
         public static string[] Methods => new string[] { HttpMethod.Post.ToString() };
         public static Delegate Handle => Action;
 
-        public static IResult Action(CategoryRequest categoryRequest, ApplicationDbContext context) {
+        public static async Task<IResult> Action(ProductRequest categoryRequest,HttpContext http, ApplicationDbContext context) {
 
-            var category = new Category(categoryRequest.Name, "Teste", "Teste");
+            var userId = http.User.Claims.First(c => c.Type == ClaimTypes.NameIdentifier).Value;
+            var category = new Category(categoryRequest.Name, userId, userId);
 
             if(!category.IsValid) {
 
                 return Results.ValidationProblem(category.Notifications.ConvertToProblemDetails());
             }
 
-            context.Category.Add(category);
-            context.SaveChanges();
-
+            await context.Category.AddAsync(category);
+            await context.SaveChangesAsync();
+            
             return Results.Created($"/categories/{category.Id}", category.Id);
         }
     }

@@ -68,3 +68,4 @@ C:\Users\jsfilho\Desktop\estudos C#\Estudos-C-Sharp\IWantApp\obj\Debug\net6.0\IW
 C:\Users\jsfilho\Desktop\estudos C#\Estudos-C-Sharp\IWantApp\obj\Debug\net6.0\IWantApp.genruntimeconfig.cache
 C:\Users\jsfilho\Desktop\estudos C#\Estudos-C-Sharp\IWantApp\obj\Debug\net6.0\ref\IWantApp.dll
 C:\Users\jsfilho\Desktop\estudos C#\Estudos-C-Sharp\IWantApp\bin\Debug\net6.0\Dapper.dll
+C:\Users\jsfilho\Desktop\estudos C#\Estudos-C-Sharp\IWantApp\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

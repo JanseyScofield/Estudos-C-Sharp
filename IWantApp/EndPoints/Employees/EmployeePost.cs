@@ -15,10 +15,10 @@ namespace IWantApp.EndPoints.Employees {
         public static string[] Methods => new string[] { HttpMethod.Post.ToString() };
         public static Delegate Handle => Action;
 
-        public static IResult Action(EmployeeRequest employeeRequest, UserManager<IdentityUser> userManager) {
+        public static async Task<IResult> Action(EmployeeRequest employeeRequest, UserManager<IdentityUser> userManager) {
 
             var user = new IdentityUser { UserName = employeeRequest.Email, Email = employeeRequest.Email };
-            var result = userManager.CreateAsync(user, employeeRequest.Password).Result;
+            var result = await userManager.CreateAsync(user, employeeRequest.Password);
 
             if(!result.Succeeded) {
                 return Results.ValidationProblem(result.Errors.ConvertToProblemDetails());
@@ -29,8 +29,7 @@ namespace IWantApp.EndPoints.Employees {
                 new Claim("EmployeeCode", employeeRequest.Name)
             };
 
-            var claimResult =
-                userManager.AddClaimsAsync(user, userClaims).Result;
+            var claimResult = await userManager.AddClaimsAsync(user, userClaims);
 
             if (!claimResult.Succeeded) {
                 return Results.BadRequest(result.Errors.First());

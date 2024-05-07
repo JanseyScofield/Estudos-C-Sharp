@@ -1,6 +1,4 @@
 ﻿using IWantApp.Domain.Products;
-using System.Globalization;
-using System;
 using Microsoft.EntityFrameworkCore;
 using Flunt.Notifications;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;

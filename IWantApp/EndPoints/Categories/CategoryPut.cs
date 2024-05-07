@@ -4,6 +4,7 @@ using IWantApp.Domain.Products;
 
 using System.CodeDom.Compiler;
 using Microsoft.AspNetCore.Mvc;
+using System.Security.Claims;
 namespace IWantApp.EndPoints.Categories {
     static class CategoryPut {
 
@@ -11,12 +12,13 @@ namespace IWantApp.EndPoints.Categories {
         public static string[] Methods => new string[] { HttpMethod.Put.ToString() };
         public static Delegate Handle => Action;
 
-        public static IResult Action([FromRoute]Guid Id, CategoryRequest categoryRequest, ApplicationDbContext context) {
-            
+        public static IResult Action([FromRoute]Guid Id, ProductRequest categoryRequest, HttpContext http, ApplicationDbContext context) {
+
+            var userId = http.User.Claims.First(c => c.Type == ClaimTypes.NameIdentifier).Value;
             var category = context.Category.Where(c => c.Id == Id).FirstOrDefault();
             if (category == null)
                 return Results.NotFound();
-            category.EditInfo(categoryRequest.Name, categoryRequest.Active);
+            category.EditInfo(categoryRequest.Name, categoryRequest.Active, userId);
 
             if (!category.IsValid)
                 return Results.ValidationProblem(category.Notifications.ConvertToProblemDetails());

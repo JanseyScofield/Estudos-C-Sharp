@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Identity;
 using IWantApp.infra.Data;
+using Microsoft.AspNetCore.Authorization;
 
 
 namespace IWantApp.EndPoints.Employees {
@@ -9,12 +10,14 @@ namespace IWantApp.EndPoints.Employees {
         public static string[] Methods => new string[] { HttpMethod.Get.ToString() };
         public static Delegate Handle => Action;
 
-        public static IResult Action(int? page, int? rows, UserManager<IdentityUser> userManager,QueryAllUsersWithClaimName query ) {
+        [Authorize(Policy = "EmployeePolicy")]
+        public static async Task<IResult> Action(int? page, int? rows, UserManager<IdentityUser> userManager,QueryAllUsersWithClaimName query ) {
 
             if( page <= 0 || rows <= 0 && rows > 10) {
                 return Results.BadRequest();
             }
-            return Results.Ok(query.Execute(page.Value, rows.Value));
+            var result = await query.Execute(page.Value, rows.Value);
+            return Results.Ok(result);
         }
     }
 

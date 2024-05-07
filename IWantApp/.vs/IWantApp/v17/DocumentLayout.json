@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\jsfilho\\Desktop\\estudos C#\\Estudos-C-Sharp\\IWantApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C64A3570-905B-4E5E-B6B8-A4B686B01C4A}|IWantApp.csproj|c:\\users\\jsfilho\\desktop\\estudos c#\\estudos-c-sharp\\iwantapp\\endpoints\\security\\tokenpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C64A3570-905B-4E5E-B6B8-A4B686B01C4A}|IWantApp.csproj|solutionrelative:endpoints\\security\\tokenpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C64A3570-905B-4E5E-B6B8-A4B686B01C4A}|IWantApp.csproj|c:\\users\\jsfilho\\desktop\\estudos c#\\estudos-c-sharp\\iwantapp\\endpoints\\products\\productgetall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C64A3570-905B-4E5E-B6B8-A4B686B01C4A}|IWantApp.csproj|solutionrelative:endpoints\\products\\productgetall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C64A3570-905B-4E5E-B6B8-A4B686B01C4A}|IWantApp.csproj|c:\\users\\jsfilho\\desktop\\estudos c#\\estudos-c-sharp\\iwantapp\\endpoints\\employees\\employeegetall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C64A3570-905B-4E5E-B6B8-A4B686B01C4A}|IWantApp.csproj|solutionrelative:endpoints\\employees\\employeegetall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C64A3570-905B-4E5E-B6B8-A4B686B01C4A}|IWantApp.csproj|c:\\users\\jsfilho\\desktop\\estudos c#\\estudos-c-sharp\\iwantapp\\endpoints\\products\\productresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C64A3570-905B-4E5E-B6B8-A4B686B01C4A}|IWantApp.csproj|solutionrelative:endpoints\\products\\productresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C64A3570-905B-4E5E-B6B8-A4B686B01C4A}|IWantApp.csproj|c:\\users\\jsfilho\\desktop\\estudos c#\\estudos-c-sharp\\iwantapp\\infra\\data\\queryalluserswithclaimname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C64A3570-905B-4E5E-B6B8-A4B686B01C4A}|IWantApp.csproj|solutionrelative:infra\\data\\queryalluserswithclaimname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C64A3570-905B-4E5E-B6B8-A4B686B01C4A}|IWantApp.csproj|c:\\users\\jsfilho\\desktop\\estudos c#\\estudos-c-sharp\\iwantapp\\endpoints\\products\\productpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C64A3570-905B-4E5E-B6B8-A4B686B01C4A}|IWantApp.csproj|solutionrelative:endpoints\\products\\productpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C64A3570-905B-4E5E-B6B8-A4B686B01C4A}|IWantApp.csproj|c:\\users\\jsfilho\\desktop\\estudos c#\\estudos-c-sharp\\iwantapp\\endpoints\\employees\\employeepost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C64A3570-905B-4E5E-B6B8-A4B686B01C4A}|IWantApp.csproj|solutionrelative:endpoints\\employees\\employeepost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C64A3570-905B-4E5E-B6B8-A4B686B01C4A}|IWantApp.csproj|c:\\users\\jsfilho\\desktop\\estudos c#\\estudos-c-sharp\\iwantapp\\domain\\products\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C64A3570-905B-4E5E-B6B8-A4B686B01C4A}|IWantApp.csproj|solutionrelative:domain\\products\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C64A3570-905B-4E5E-B6B8-A4B686B01C4A}|IWantApp.csproj|c:\\users\\jsfilho\\desktop\\estudos c#\\estudos-c-sharp\\iwantapp\\endpoints\\security\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C64A3570-905B-4E5E-B6B8-A4B686B01C4A}|IWantApp.csproj|solutionrelative:endpoints\\security\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C64A3570-905B-4E5E-B6B8-A4B686B01C4A}|IWantApp.csproj|c:\\users\\jsfilho\\desktop\\estudos c#\\estudos-c-sharp\\iwantapp\\domain\\products\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C64A3570-905B-4E5E-B6B8-A4B686B01C4A}|IWantApp.csproj|solutionrelative:domain\\products\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C64A3570-905B-4E5E-B6B8-A4B686B01C4A}|IWantApp.csproj|c:\\users\\jsfilho\\desktop\\estudos c#\\estudos-c-sharp\\iwantapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C64A3570-905B-4E5E-B6B8-A4B686B01C4A}|IWantApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C64A3570-905B-4E5E-B6B8-A4B686B01C4A}|IWantApp.csproj|c:\\users\\jsfilho\\desktop\\estudos c#\\estudos-c-sharp\\iwantapp\\endpoints\\products\\productrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C64A3570-905B-4E5E-B6B8-A4B686B01C4A}|IWantApp.csproj|solutionrelative:endpoints\\products\\productrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,84 +34,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TokenPost.cs",
-              "DocumentMoniker": "C:\\Users\\jsfilho\\Desktop\\estudos C#\\Estudos-C-Sharp\\IWantApp\\EndPoints\\Security\\TokenPost.cs",
-              "RelativeDocumentMoniker": "EndPoints\\Security\\TokenPost.cs",
-              "ToolTip": "C:\\Users\\jsfilho\\Desktop\\estudos C#\\Estudos-C-Sharp\\IWantApp\\EndPoints\\Security\\TokenPost.cs",
-              "RelativeToolTip": "EndPoints\\Security\\TokenPost.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAA8AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T14:22:12.419Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "LoginRequest.cs",
-              "DocumentMoniker": "C:\\Users\\jsfilho\\Desktop\\estudos C#\\Estudos-C-Sharp\\IWantApp\\EndPoints\\Security\\LoginRequest.cs",
-              "RelativeDocumentMoniker": "EndPoints\\Security\\LoginRequest.cs",
-              "ToolTip": "C:\\Users\\jsfilho\\Desktop\\estudos C#\\Estudos-C-Sharp\\IWantApp\\EndPoints\\Security\\LoginRequest.cs",
-              "RelativeToolTip": "EndPoints\\Security\\LoginRequest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T14:21:31.372Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "EmployeePost.cs",
-              "DocumentMoniker": "C:\\Users\\jsfilho\\Desktop\\estudos C#\\Estudos-C-Sharp\\IWantApp\\EndPoints\\Employees\\EmployeePost.cs",
-              "RelativeDocumentMoniker": "EndPoints\\Employees\\EmployeePost.cs",
-              "ToolTip": "C:\\Users\\jsfilho\\Desktop\\estudos C#\\Estudos-C-Sharp\\IWantApp\\EndPoints\\Employees\\EmployeePost.cs",
-              "RelativeToolTip": "EndPoints\\Employees\\EmployeePost.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T14:20:01.181Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "QueryAllUsersWithClaimName.cs",
-              "DocumentMoniker": "C:\\Users\\jsfilho\\Desktop\\estudos C#\\Estudos-C-Sharp\\IWantApp\\infra\\Data\\QueryAllUsersWithClaimName.cs",
-              "RelativeDocumentMoniker": "infra\\Data\\QueryAllUsersWithClaimName.cs",
-              "ToolTip": "C:\\Users\\jsfilho\\Desktop\\estudos C#\\Estudos-C-Sharp\\IWantApp\\infra\\Data\\QueryAllUsersWithClaimName.cs",
-              "RelativeToolTip": "infra\\Data\\QueryAllUsersWithClaimName.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T13:54:59.877Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "EmployeeGetAll.cs",
-              "DocumentMoniker": "C:\\Users\\jsfilho\\Desktop\\estudos C#\\Estudos-C-Sharp\\IWantApp\\EndPoints\\Employees\\EmployeeGetAll.cs",
-              "RelativeDocumentMoniker": "EndPoints\\Employees\\EmployeeGetAll.cs",
-              "ToolTip": "C:\\Users\\jsfilho\\Desktop\\estudos C#\\Estudos-C-Sharp\\IWantApp\\EndPoints\\Employees\\EmployeeGetAll.cs",
-              "RelativeToolTip": "EndPoints\\Employees\\EmployeeGetAll.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "Title": "ProductResponse.cs",
+              "DocumentMoniker": "C:\\Users\\jsfilho\\Desktop\\estudos C#\\Estudos-C-Sharp\\IWantApp\\EndPoints\\Products\\ProductResponse.cs",
+              "RelativeDocumentMoniker": "EndPoints\\Products\\ProductResponse.cs",
+              "ToolTip": "C:\\Users\\jsfilho\\Desktop\\estudos C#\\Estudos-C-Sharp\\IWantApp\\EndPoints\\Products\\ProductResponse.cs",
+              "RelativeToolTip": "EndPoints\\Products\\ProductResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T13:23:07.24Z",
+              "WhenOpened": "2024-05-07T14:53:00.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductGetAll.cs",
+              "DocumentMoniker": "C:\\Users\\jsfilho\\Desktop\\estudos C#\\Estudos-C-Sharp\\IWantApp\\EndPoints\\Products\\ProductGetAll.cs",
+              "RelativeDocumentMoniker": "EndPoints\\Products\\ProductGetAll.cs",
+              "ToolTip": "C:\\Users\\jsfilho\\Desktop\\estudos C#\\Estudos-C-Sharp\\IWantApp\\EndPoints\\Products\\ProductGetAll.cs",
+              "RelativeToolTip": "EndPoints\\Products\\ProductGetAll.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T14:52:07.547Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\jsfilho\\Desktop\\estudos C#\\Estudos-C-Sharp\\IWantApp\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\jsfilho\\Desktop\\estudos C#\\Estudos-C-Sharp\\IWantApp\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "Title": "ProductRequest.cs",
+              "DocumentMoniker": "C:\\Users\\jsfilho\\Desktop\\estudos C#\\Estudos-C-Sharp\\IWantApp\\EndPoints\\Products\\ProductRequest.cs",
+              "RelativeDocumentMoniker": "EndPoints\\Products\\ProductRequest.cs",
+              "ToolTip": "C:\\Users\\jsfilho\\Desktop\\estudos C#\\Estudos-C-Sharp\\IWantApp\\EndPoints\\Products\\ProductRequest.cs",
+              "RelativeToolTip": "EndPoints\\Products\\ProductRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T13:34:41.144Z",
+              "WhenOpened": "2024-05-07T14:44:50.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\jsfilho\\Desktop\\estudos C#\\Estudos-C-Sharp\\IWantApp\\Domain\\Products\\Category.cs",
+              "RelativeDocumentMoniker": "Domain\\Products\\Category.cs",
+              "ToolTip": "C:\\Users\\jsfilho\\Desktop\\estudos C#\\Estudos-C-Sharp\\IWantApp\\Domain\\Products\\Category.cs",
+              "RelativeToolTip": "Domain\\Products\\Category.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T14:33:44.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\Users\\jsfilho\\Desktop\\estudos C#\\Estudos-C-Sharp\\IWantApp\\Domain\\Products\\Products.cs",
+              "RelativeDocumentMoniker": "Domain\\Products\\Products.cs",
+              "ToolTip": "C:\\Users\\jsfilho\\Desktop\\estudos C#\\Estudos-C-Sharp\\IWantApp\\Domain\\Products\\Products.cs",
+              "RelativeToolTip": "Domain\\Products\\Products.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T14:33:34.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductPost.cs",
+              "DocumentMoniker": "C:\\Users\\jsfilho\\Desktop\\estudos C#\\Estudos-C-Sharp\\IWantApp\\EndPoints\\Products\\ProductPost.cs",
+              "RelativeDocumentMoniker": "EndPoints\\Products\\ProductPost.cs",
+              "ToolTip": "C:\\Users\\jsfilho\\Desktop\\estudos C#\\Estudos-C-Sharp\\IWantApp\\EndPoints\\Products\\ProductPost.cs",
+              "RelativeToolTip": "EndPoints\\Products\\ProductPost.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAADwvxkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T14:30:28.859Z",
               "EditorCaption": ""
             }
           ]
